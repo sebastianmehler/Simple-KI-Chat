@@ -70,8 +70,8 @@ class LMStudioChat:
                 for line in response.iter_lines():
                     if line:
                         now = time.time()
-                        if now - last_token_time > 1.5:
-                            print("⏳", end="", flush=True)
+                        # if now - last_token_time > 1.5:
+                        #     print("⏳", end="", flush=True)
                         last_token_time = now
 
                         line_str = line.decode("utf-8")

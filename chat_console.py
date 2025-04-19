@@ -7,7 +7,7 @@ from lmstudio_api import LMStudioChat
 
 CONFIG_PATH = "config.json"
 if not os.path.exists(CONFIG_PATH):
-    print("⚠️ Konfigurationsdatei nicht gefunden.")
+    print("⚠️ Konfigurationsdatei nicht gefunden. Vor dem ersten ausführen bitte die config.json.sample Datei in config.json umbenennen und anpassen.")
     sys.exit(1)
 
 with open(CONFIG_PATH, "r", encoding="utf-8") as f:

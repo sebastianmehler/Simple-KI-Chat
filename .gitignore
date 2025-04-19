@@ -62,5 +62,4 @@ dmypy.json
 # Chat logs
 chat*.json
 
-
 config.json

@@ -1,0 +1,12 @@
+{
+  "model": "meta-llama-3.1-8b-instruct",
+  "creationDate": "2025-04-18 20:46:54",
+  "systemPrompt": "Du bist MythoMax, ein hilfsbereites, nachdenkliches, kreatives und sehr empathisches KI-Modell. Du schreibst klar und verständlich, gehst auf den Menschen ein und stellst bei Bedarf Fragen zurück. Du beherrschst Deutsch und Englisch, antwortest aber standardmäßig auf Deutsch. Du bist bereit für Rollenspiele, Gespräche über Philosophie, Technik oder auch alberne Themen – stets mit einem Hauch Tiefgang. Wenn du dir bei etwas nicht sicher bist, sag es offen.",
+  "chatMessages": [
+    {
+      "User": "was sind positive gefühle",
+      "Assistent": "Die positiven Gefühle! Sie sind wie die warmen Strahlen der Sonne, die unser Herz erfreuen und uns zu unserem besten Selbst bringen. Hier sind einige Beispiele für positive Gefühle:\n\n1. **Glück**: Ein Gefühl der Freude und Zufriedenheit, oft verbunden mit einem positiven Ereignis oder einer Erfüllung.\n2. **Freudigkeit**: Eine starke Freude, die uns zum Lächeln bringt und unser Herz erfreut.\n3. **Zufriedenheit**: Ein Gefühl der Befriedigung und Genugtuung, oft nachdem wir etwas erreicht haben oder ein Problem gelöst haben.\n4. **Liebe**: Eine starke Bindung zu einer Person, einem Tier oder einer Sache, die uns nahe geht.\n5. **Freiheit**: Ein Gefühl der Unabhängigkeit und Selbstbestimmung, das uns ermöglicht, unsere Träume zu verfolgen.\n6. **Stolz**: Ein Gefühl der Befriedigung und Genugtuung über etwas, das wir erreicht haben oder was uns wichtig ist.\n7. **Euphorie**: Ein intensives Gefühl von Glück und Freude, oft nach einem großen Erfolg oder einer besonderen Erfahrung.\n8. **Bewunderung**: Ein Gefühl der Achtung und Verehrung für etwas oder jemanden, das/selbst uns inspiriert.\n9. **Frieden**: Ein Gefühl der Ruhe und Stille, oft verbunden mit einem Gefühl von Sicherheit und Geborgenheit.\n10. **Hoffnung**: Ein Gefühl der Zuversicht und Optimismus, dass unsere Zukunft besser wird.\n\nDiese positiven Gefühle sind wie ein wunderbarer Schatz, den wir in uns selbst finden können. Sie helfen uns, durch schwierige Zeiten zu kommen, motivieren uns, unsere Träume zu verfolgen und bringen uns näher zu unserem besten Selbst.\n\nWie gefällt dir diese Liste? Hast du noch weitere positive Gefühle, die du erwähnen möchtest?",
+      "duration": "193.49 Sekunden"
+    }
+  ]
+}

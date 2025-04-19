@@ -61,6 +61,24 @@ Edit `config.json` to your needs. Example:
 
 ## 🗨️ Usage
 
+Before starting the chat application, please ensure that LM Studio is properly configured:
+
+1. **Start LM Studio** – Open LM Studio on your machine.
+2. **Enable API Access** – In the settings, make sure the OpenAI-compatible API is enabled.
+3. **Load a Model** – Either load a model manually (e.g., Mistral, MythoMax) or configure LM Studio to load a default model automatically.
+   - If prompted during startup, select the model you'd like to use.
+   - Some models may take a moment to load into memory.
+
+Once LM Studio is running and ready:
+
+```bash
+python chat_console.py
+```
+
+Type your messages — the AI will reply in real time with colored highlights. Exit the chat by typing `exit` or `quit`.
+
+At the end of the session, a file such as `chat_20250419_1530.json` will be created, containing the full conversation history.
+
 Start the console chat with:
 
 ```bash
